@@ -1,0 +1,74 @@
+[
+    {
+        "id": "T002",
+        "title": "gym health ",
+        "category": "Health",
+        "priority": "Medium",
+        "status": "Pending",
+        "due_date": "4-10-2006",
+        "notes": "should complete 8hrs of sleep",
+        "created": "04-06-2026 22:46",
+        "updated": "04-06-2026 23:00"
+    },
+    {
+        "id": "T002",
+        "title": "gym",
+        "category": "Health",
+        "priority": "High",
+        "status": "Completed",
+        "due_date": "4-10-2006",
+        "notes": "completed push workout",
+        "created": "04-06-2026 22:49"
+    },
+    {
+        "id": "T003",
+        "title": "protien health",
+        "category": "Health",
+        "priority": "High",
+        "status": "Completed",
+        "due_date": "4-10-2006",
+        "notes": "completed protien intake of 120gm",
+        "created": "04-06-2026 22:50",
+        "updated": "04-06-2026 23:00"
+    },
+    {
+        "id": "T004",
+        "title": "study",
+        "category": "Study",
+        "priority": "High",
+        "status": "In Progress",
+        "due_date": "4-10-2006",
+        "notes": "should comple Task 3",
+        "created": "04-06-2026 22:51"
+    },
+    {
+        "id": "T005",
+        "title": "Intership project ",
+        "category": "Work",
+        "priority": "High",
+        "status": "In Progress",
+        "due_date": "24-6-2026",
+        "notes": "should complet the Intership project work",
+        "created": "04-06-2026 22:59"
+    },
+    {
+        "id": "T006",
+        "title": "",
+        "category": "Work",
+        "priority": "High",
+        "status": "Pending",
+        "due_date": "",
+        "notes": "",
+        "created": "04-06-2026 23:59"
+    },
+    {
+        "id": "T007",
+        "title": "groceries ",
+        "category": "Work",
+        "priority": "Medium",
+        "status": "Pending",
+        "due_date": "7-0-2026",
+        "notes": "need to buy",
+        "created": "05-06-2026 00:01"
+    }
+]
